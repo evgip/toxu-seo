@@ -1,2 +1,0 @@
-# toxu-seo
-toxu seo
